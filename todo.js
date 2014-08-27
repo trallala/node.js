@@ -14,9 +14,8 @@ function loaded() {
     });
    $("#checkbox").click(
      function(){
-       $(this).replaceWith($("<s>" + this.innerHTML + "</s>"));
+       $(this).replaceWith($("<s>" + this.parent + "</s>"));
     });
-  return false;
 
 }
 

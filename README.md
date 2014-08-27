@@ -10,4 +10,4 @@ node.js
 
 ↓で１のみ動作確認済
 
-http://jsfiddle.net/0pawtbx6/7/
+http://jsfiddle.net/0pawtbx6/9/
